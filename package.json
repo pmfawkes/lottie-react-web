@@ -53,8 +53,5 @@
     "lottie-web": "^5.2.1",
     "lottie-api": "bodymovin/lottie-api#master"
   },
-  "main": "dist/index.js",
-  "engines": {
-    "npm": "^3.0.0"
-  }
+  "main": "dist/index.js"
 }
